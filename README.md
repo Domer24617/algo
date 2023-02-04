@@ -18,7 +18,7 @@
       <table style="border-collapse: collapse; border: 1px solid DarkBlue;">
         <tr> <!-- Это первая строка! -->
           <a href="https://itorrents-igruha.org/519-rust.htm" style="border: 1px solid DarkBlue;">RUST!</a>
-          <td href="https://itorrents-igruha.org/24-16-gta-5-onlayn-versiya-na-kompyuter-2-1.html" style="border: 1px solid DarkBlue;">GTA 5!</td>
+          <a href="https://itorrents-igruha.org/24-16-gta-5-onlayn-versiya-na-kompyuter-2-1.html" style="border: 1px solid DarkBlue;">GTA 5!</a>
           <td style="border: 1px solid DarkBlue;">Ячейка!</td>
         </tr>
         <tr> <!-- Это первая строка! -->
